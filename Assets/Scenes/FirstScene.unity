@@ -263,7 +263,7 @@ SpriteRenderer:
   m_Size: {x: 38.399998, y: 21.599998}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &411668050
@@ -610,11 +610,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1579798437}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1df111d344c4a694485ea6a16b9aa528, type: 3}
+  m_Script: {fileID: 11500000, guid: dea2ddef68f1d69438565fe75c227785, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1988069933}
-  startingState: {fileID: 11400000, guid: 1b021c674ea8b734397bc93486435ec7, type: 2}
+  startingState: {fileID: 11400000, guid: 7d4bacf33bfa9404397e3c328b5c0edd, type: 2}
 --- !u!4 &1579798439
 Transform:
   m_ObjectHideFlags: 0

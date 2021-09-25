@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: B3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Escape\r\nThe door opens and then... nothing. You peak outside and
+    there is nobody there. \r\n\r\nWell, thats odd.\r\n\r\nHave you just been freed?
+    And by whom? And why?\r\n\r\nNo time for that now. We have escaping to do. Whats
+    the plan?\r\n\r\n1. Wait a bit longer.\r\n2. Get running."
+  nextStates:
+  - {fileID: 11400000, guid: e55d8f0d9f0044945b1bb4eb8169be92, type: 2}
+  - {fileID: 11400000, guid: 77bbe0b459aa6004ca2ca3f02bca1fb1, type: 2}

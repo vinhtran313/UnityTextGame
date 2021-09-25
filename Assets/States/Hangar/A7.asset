@@ -12,5 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: A7
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Good thinking, no point worrying about some random guys'' plans to
+    blow up the entire pumping station by shutting off the water cooling valves.
+    I''m sure everything will be just fine. Nothing at all to worry about. Plenty
+    of time to do what you need to do.
+
+
+
+    You take quite some time, but eventually
+    you make your way around the edge of the pumping station and see daylight.
+
+
+
+    What!
+    An almighty screech pierces the air. Gears grinding. Steam spooshing from cracks
+    in pipes. And then, a deafening roar....
+
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 84f4c15b1e991724c9d9dc80f457b606, type: 2}

@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: B4
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Friendly Fire\r\nYou tear off a piece of metal framing from your leather
+    airship pilot armour and hold it ready as a shiv of sorts. As the door opens
+    you rush at your captor, leaping like a crazy person and hollering a primal scream
+    of rage.\r\n\r\nPayback time for your beating and from all the pain these dirty
+    Festers have caused your family. You drive home your metal shiv. You hear the
+    crunch of bones and feel the slice of flesh. \r\n\r\nAfter a brief struggle,
+    there is stillness. You look down and see... oh my lord... you see... yourself?
+    What? How?\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: e55d8f0d9f0044945b1bb4eb8169be92, type: 2}

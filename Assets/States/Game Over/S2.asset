@@ -12,5 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: S2
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Onboard With Supplies
+
+    You take what feels like an eternity to
+    scrounge a rock flinger and 3 vials of tonix. When a huge machine cog lands an
+    arm span from your head you decide its time to make your dash.
+
+
+
+    You scramble
+    aboard your airship. With all of your remaining strength, you lift the anchoring
+    rope off its huge hook and give an all mighty shove.
+
+
+
+    From behind you hear
+    a surprised crew member. He rushes. You shoot. Direct hit. Thank goodness for
+    the weapon. You''re safe. For now.
+
+
+
+    1. Continue...'
   nextStates: []

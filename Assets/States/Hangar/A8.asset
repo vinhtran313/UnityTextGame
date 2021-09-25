@@ -12,5 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: A8
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You slink through the machinery towards 2 skanky looking men. The tall,
+    scrawny one is carrying an oversized gas-canister-powered arrow shooter, while
+    the shorter dumpy man has strapped to him at least a dozen small glass bottles
+    with grey liquid inside.
+
+
+
+    The stout fellow finishes cranking a large valve
+    (clockwise you notice) and then both men dash off with much haste.
+
+
+
+    What
+    to do?
+
+
+
+    1. Quick, uncrank that valve, they were clearly up to no good.
+
+    2.
+    Chase the men.'
+  nextStates:
+  - {fileID: 11400000, guid: cf04b85f99f583a4b94b67e131cc2471, type: 2}
+  - {fileID: 11400000, guid: 4de550021aab59243ab5466f65726799, type: 2}

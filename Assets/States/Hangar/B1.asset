@@ -12,5 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: B1
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'In front of you is the expanse of the airship hangar.
+
+
+
+    Festers
+    are running everywhere and mostly yelling at one another. Some men are clambering
+    aboard airships, others are attempting to put out fires that have started from
+    the explosion.
+
+
+
+    Who were those men? Friend or foe? That will have to wait.
+    Time to get out of here.
+
+
+
+    What now?
+
+    1. Mad sprint to the nearest airship.
+
+    2.
+    Quick scrounge for weapons, then mad sprint to the nearest airship.'
+  nextStates:
+  - {fileID: 11400000, guid: d6da9e2eb7a9dc54585d2c0c8db9ffdd, type: 2}
+  - {fileID: 11400000, guid: 58431c70a53c0814a84d12e51a0a92e8, type: 2}

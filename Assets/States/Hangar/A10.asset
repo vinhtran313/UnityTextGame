@@ -12,5 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: A10
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You take your cue from the two men and get on your horse. Figuratively
+    of course, no one rides horses since the combustamobile was invented.
+
+
+
+    You
+    zig. You zag. You weave through the huge machinery of the pumping station. Steam
+    jets have started squirting out of pipes. Gears are grinding to a halt. You see
+    the exit ahead.
+
+
+
+    Something behind you gives a grinding screech. Metal eating
+    into metal. You leap for the door and slide through on your stomach, just as
+    all hell breaks lose behind you.
+
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: d3cc4f93f4a36a04595c8cedeaeebefc, type: 2}

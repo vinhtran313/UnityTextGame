@@ -12,5 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10020399160c0ee4cb26140c2adfeb48, type: 3}
   m_Name: B5
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Waiting
+
+    Not much happens, what would you like to do?
+
+
+
+    1.
+    Get running.'
+  nextStates:
+  - {fileID: 11400000, guid: 77bbe0b459aa6004ca2ca3f02bca1fb1, type: 2}
